@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Environments, hosting, building and deployment](README.md)
 
