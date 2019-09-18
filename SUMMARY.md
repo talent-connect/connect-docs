@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Environments, hosting, building and deployment](README.md)
+* [README](README.md)
 * [Development workflow and conventions](development-workflow-and-conventions.md)
+* [Environments, hosting, building and deployment](environments-hosting-building-and-deployment.md)
 
